@@ -1,4 +1,4 @@
-# A New 3D Urban Building Community Model for Earth System Modeling. Part II: Data and Comprehensive Evaluation
+# A New 3D Urban Building Community Model for Earth System Modeling: Data and Comprehensive Evaluation
 
 
 ## Overview
@@ -49,6 +49,7 @@ The code is organized into three main functional directories:
         └── taylor.py
 ```
 <br>
+
 
 
 
