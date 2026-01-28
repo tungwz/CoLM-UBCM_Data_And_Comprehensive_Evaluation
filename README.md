@@ -3,7 +3,7 @@
 
 ## Overview
 This repository contains the plot code of the evaluation CoLM-UBCM, supporting the manuscript:
-> "A New 3D Urban Building Community Model for Earth System Modeling. Part II: Data and Comprehensive Evaluation" submitted to _Journal of Advances in Modeling Earth Systems_. A related dataset is open access at: 10.5281/zenodo.17919049.
+> "A New 3D Urban Building Community Model for Earth System Modeling: Data and Comprehensive Evaluation" submitted to _Journal of Advances in Modeling Earth Systems_. A related dataset is open access at: .
 
 ## Code Organization
 
@@ -45,15 +45,11 @@ The code is organized into three main functional directories:
 └── site_analysis
     ├── 21_sites
     │   └── 21_sites_box_plot.py
-    ├── AU-Preston
-    │   ├── G11_AU-Pres.py    
-    │   ├── Plumber2_AU-Pres.py
-    │   ├── RMSE_results.csv             # Except for CoLM-UBCM, the other model results are from https://urban-plumber.github.io/AU-Preston/plots/
-    │   └── R_results.csv                # Except for CoLM-UBCM, the other model results are from https://urban-plumber.github.io/AU-Preston/plots/
     └── taylor_plot
         └── taylor.py
 ```
 <br>
+
 
 
 
