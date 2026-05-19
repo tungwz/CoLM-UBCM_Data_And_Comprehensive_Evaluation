@@ -1,8 +1,8 @@
-# A New 3D Urban Building Community Model for Earth System Modeling: Data and Comprehensive Evaluation
+# The New Urban Building Community Model for Earth System Modeling: Data and Comprehensive Evaluation
 
 Data, model output, and analysis notebooks for the comprehensive evaluation of the Common Land Model with Urban Building Community Model (CoLM-UBCM). This repository supports the manuscript:
 
-> "A New 3D Urban Building Community Model for Earth System Modeling: Data and Comprehensive Evaluation", submitted to _Journal of Advances in Modeling Earth Systems_.
+> "The New Urban Building Community Model for Earth System Modeling: Data and Comprehensive Evaluation", submitted to _Journal of Advances in Modeling Earth Systems_.
 
 The repository is data-heavy because it includes NetCDF model output, site observations, global gridded data products, and precomputed evaluation metrics.
 
